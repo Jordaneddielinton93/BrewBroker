@@ -7,7 +7,7 @@ position: relative;
   width: 100%;
   margin: 0px auto;
 
-  background: linear-gradient(5deg, #DF5300, #DD5B00, white, white);
+  background: linear-gradient(5deg, #DD5B00, #DD5B00, white, white);
   background-size: 200% 200%;
   animation: gradient 15s ease infinite;
 
